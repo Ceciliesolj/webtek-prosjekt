@@ -20,13 +20,13 @@ body{
 }
 
 .navbar ul a:hover{
-    color: #7c8fa1;
+    color: #384733;
 }
 
 .navbar{
     clear:both;
     overflow:auto;
-    background-color: #b3daff;
+    background-color: #97b58f;
     height: 120px;
 }
 
@@ -51,14 +51,14 @@ section, header{
     overflow: hidden;
 }
 
-#adDetails img{
+#client img{
     width: 200px;
     float: left;
     margin-right: 20px;
     border-radius: 10px;
 }
 
-#adDetails{
+#client{
     clear: left;
 }
 
@@ -77,6 +77,7 @@ h1, header p{
 p, li{
     font-size: 20px;
 }
+
 
 
 
